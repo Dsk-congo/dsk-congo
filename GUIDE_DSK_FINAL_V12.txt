@@ -1,0 +1,34 @@
+DSK FINAL V12
+
+Cette version contient :
+- Super admin Dieumerci MUBULU avec ID IGCN&LOG et fonction Super Admin.
+- Création admins avec ID Admin, fonction, section, droits.
+- Fonctions admins : CGen, CGACIC, CGACQPS, Sec Gen, APCCPM, CMGSSB, CASH, CRP, CLD, ASPLCF, CSPP, CS, CJ.
+- Adhésion membre avec nom, post-nom, prénom, téléphone, fonction/titre, section, mot de passe.
+- Validation membres par admin de section.
+- Gestion membres & admins : mots de passe, suspension, réactivation, PDF.
+- Rapports PDF membres/admins sans mots de passe.
+- Communiqués par section ou tous.
+- Chat membres par section.
+- Chat super admin ↔ admins.
+- Modification complète de la page À propos dans Admin > Pages / À propos.
+
+IMPORTANT :
+Remplace tous les fichiers sur GitHub, pas seulement 1 ou 2 fichiers.
+
+Fichiers à envoyer :
+index.html
+admin.html
+style.css
+public.js
+admin.js
+shared.js
+firebase-config.js
+.nojekyll
+
+Après upload :
+1. Attends 2 minutes.
+2. Ouvre admin.html.
+3. Ctrl + F5.
+4. Ouvre le site.
+5. Ctrl + F5.

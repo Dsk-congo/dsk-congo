@@ -1,0 +1,10 @@
+DSK CONGO V21
+
+Ajouts :
+- Page À propos avec icônes Facebook, TikTok, YouTube cliquables.
+- Champs réseaux sociaux dans Admin > Site/contact.
+- Bouton Rejoindre DSK Congo.
+- Navigation rapide en bas de l’accueil.
+- Adaptation téléphone améliorée.
+
+Remplace tous les fichiers sur GitHub puis fais Ctrl + F5.

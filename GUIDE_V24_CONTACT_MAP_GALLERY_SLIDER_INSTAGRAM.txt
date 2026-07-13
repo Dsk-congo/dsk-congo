@@ -1,0 +1,28 @@
+DSK CONGO V24
+
+Ajouts :
+- Bouton WhatsApp flottant.
+- Bouton Appeler flottant.
+- Bouton Email flottant.
+- Carte Google Maps dans Contact.
+- Galerie photos défilante sur l’accueil.
+- Slider automatique des actualités avec images.
+- Instagram ajouté dans À propos.
+- Champs Admin > Site :
+  * Instagram
+  * Google Maps intégré
+  * Galerie accueil
+
+Pour Google Maps :
+1. Ouvre Google Maps.
+2. Recherche ton adresse.
+3. Partager > Intégrer une carte.
+4. Copie le lien src de l'iframe et colle dans Admin > Site > Lien Google Maps intégré.
+
+Pour galerie accueil :
+- Mets un lien image par ligne.
+- Utilise les liens RAW GitHub ou images publiques.
+
+À envoyer sur GitHub :
+Remplace tous les fichiers du ZIP.
+Après upload : Ctrl + F5 sur site et admin.

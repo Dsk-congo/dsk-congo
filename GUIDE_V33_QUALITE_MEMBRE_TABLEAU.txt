@@ -1,0 +1,13 @@
+DSK CONGO V33
+
+Modification :
+- Dans la fiche d’adhésion PDF, section QUALITÉ DU MEMBRE :
+  * ajout du tableau Membre d’honneur / Membre sympathisant / Membre effectif ;
+  * la case correspondant à la qualité du membre est cochée automatiquement ;
+  * les autres champs restent conservés.
+
+Après upload :
+1. Remplace tous les fichiers sur GitHub.
+2. Attends 2 minutes.
+3. Fais Ctrl + F5 sur admin.html.
+4. Génère une fiche PDF.

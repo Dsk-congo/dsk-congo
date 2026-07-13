@@ -1,0 +1,26 @@
+DSK CONGO V32
+
+Modifications :
+- Le contour de la photo du leader sur la fiche A4 est supprimé.
+- Le QR Code affiche maintenant toutes les informations du membre :
+  * ID
+  * Nom
+  * Post-nom
+  * Prénom
+  * Sexe
+  * Téléphone
+  * Email
+  * Section
+  * Fonction
+  * Qualité
+  * État
+  * Date d’adhésion
+  * Province, territoire, ville, commune/quartier, adresse
+- La page de vérification est adaptée au téléphone.
+
+Après upload :
+1. Remplace tous les fichiers sur GitHub.
+2. Attends 2 minutes.
+3. Fais Ctrl + F5 sur index.html et admin.html.
+4. Génère une fiche PDF.
+5. Scanne le QR Code.

@@ -1,0 +1,24 @@
+DSK CONGO V31
+
+Modifications :
+- Fiche d’adhésion A4 sur une seule page.
+- En haut à gauche : seulement la photo du leader, sans texte.
+- La photo du leader occupe bien l’espace photo.
+- La date d’adhésion affiche le jour/date/heure enregistrés.
+- QR Code : lorsqu’on scanne, il ouvre une page de vérification.
+- Page de vérification affichée :
+  DSK CONGO
+  ✓ Membre authentifié
+  Nom
+  ID
+  Section
+  Fonction
+  État
+  Date d’adhésion
+
+Après upload :
+1. Remplace tous les fichiers sur GitHub.
+2. Attends 2 minutes.
+3. Fais Ctrl + F5 sur admin.html et index.html.
+4. Admin > Membres > Fiche PDF.
+5. Scanne le QR code avec ton téléphone.

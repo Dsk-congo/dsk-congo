@@ -1,0 +1,18 @@
+DSK CONGO V35
+
+Modifications :
+- Photo du leader descendue légèrement.
+- Sous la signature : Simplice KUMBUNGE Président en gras.
+- Photo du membre occupe tout son cadre.
+- QR Code ne ramène plus vers le site principal.
+- QR Code ouvre une page directe de vérification sans menu ni navigation.
+- La page QR affiche les identifiants et coordonnées qui sont sur la fiche :
+  ID, nom, post-nom, prénom, téléphone, email, section, fonction, qualité, état, date d’adhésion, date d’enregistrement, coordonnées géographiques.
+- Design moderne et adapté au téléphone.
+
+Après upload :
+1. Remplace tous les fichiers sur GitHub.
+2. Attends 2 minutes.
+3. Fais Ctrl + F5 sur index.html et admin.html.
+4. Génère une fiche PDF.
+5. Scanne le QR Code.

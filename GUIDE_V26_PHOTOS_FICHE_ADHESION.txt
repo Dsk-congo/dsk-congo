@@ -1,0 +1,17 @@
+DSK CONGO V26 — PHOTOS SUR FICHE D’ADHÉSION
+
+Ajouts :
+- Photo du leader automatique sur la fiche d’adhésion.
+- Champ “Photo du leader URL” dans Admin > Site.
+- Champ “Photo membre URL” dans l’adhésion.
+- Bouton “Photo” dans Admin > Membres pour ajouter/modifier la photo du membre.
+- La fiche PDF affiche la photo du leader et la photo du membre.
+
+Utilisation :
+1. Mets les photos sur GitHub ou un hébergeur public.
+2. Copie le lien RAW de la photo.
+3. Colle la photo du leader dans Admin > Site.
+4. Pour un membre : Admin > Membres > Photo.
+5. Clique ensuite sur Fiche PDF.
+
+Remplace tous les fichiers sur GitHub puis Ctrl + F5.

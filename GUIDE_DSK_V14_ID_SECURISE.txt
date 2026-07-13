@@ -1,0 +1,40 @@
+DSK CONGO V14 — ID SÉCURISÉS
+
+Format final des ID :
+
+Membre :
+DSK-M-AAAAMM-XXXXXX-NP
+Exemple :
+DSK-M-202606-583714-MD
+
+Admin :
+DSK-A-AAAAMM-XXXXXX-NP-AD
+Exemple :
+DSK-A-202606-583714-MD-AD
+
+Super Admin :
+DSK-SA-AAAAMM-XXXXXX-NP-SupAd
+Exemple :
+DSK-SA-202606-583714-MD-SupAd
+
+Explication :
+- AAAAMM = année + mois de création
+- XXXXXX = numéro aléatoire automatique
+- NP = première lettre du nom + première lettre du prénom
+- AD = Administrateur
+- SupAd = Super Administrateur
+
+Autres corrections :
+- ID admin généré automatiquement
+- ID membre généré automatiquement
+- champ ID admin non saisissable
+- titre PDF/impression : Dynamik Simplice KUMBUNGE
+- phrase “NB : mots de passe exclus” supprimée
+
+À envoyer sur GitHub :
+- shared.js
+- admin.js
+- public.js
+
+Recommandé : remplacer tous les fichiers du ZIP.
+Après upload : Ctrl + F5 sur admin et site.

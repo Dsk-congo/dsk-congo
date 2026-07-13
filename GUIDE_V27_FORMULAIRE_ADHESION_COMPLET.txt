@@ -1,0 +1,33 @@
+DSK CONGO V27 — FORMULAIRE D’ADHÉSION COMPLET
+
+Ajout :
+La page Adhésion contient maintenant les mêmes champs que la fiche papier :
+- Nom
+- Post-nom
+- Prénom
+- Lieu et date de naissance
+- Sexe
+- Contact
+- E-mail
+- Photo membre
+- Nationalité
+- Province
+- Territoire
+- Ville
+- Commune / Quartier
+- Adresse
+- Appartenance politique antérieure
+- Période d’appartenance
+- Circonscription électorale
+- Qualité du membre
+- Section
+- Fonction / Titre
+- Mot de passe
+
+Utilisation :
+1. Le membre remplit la page Adhésion.
+2. L’admin valide dans Admin > Membres.
+3. L’admin ajoute/modifie la photo si nécessaire.
+4. L’admin clique sur Fiche PDF.
+
+Remplace tous les fichiers sur GitHub puis fais Ctrl + F5.

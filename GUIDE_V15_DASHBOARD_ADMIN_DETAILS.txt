@@ -1,0 +1,17 @@
+DSK CONGO V15
+
+Corrections :
+- Tableau de bord plus professionnel avec effets.
+- Cartes statistiques cliquables.
+- Espace vide rempli avec statistiques par section et activité générale.
+- Détails admins affichés comme les membres.
+- Super admin peut modifier/réinitialiser MDP membre/admin.
+- Super admin peut suspendre/réactiver membre/admin.
+- Page Admins affiche ID, utilisateur, nom, fonction, section, rôle, droits, mot de passe et statut.
+
+À envoyer sur GitHub :
+- admin.js
+- style.css
+
+Recommandé : remplacer tous les fichiers du ZIP.
+Après upload : Ctrl + F5.

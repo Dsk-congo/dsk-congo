@@ -1,0 +1,21 @@
+DSK CONGO V19 STABLE
+
+Cette version corrige le bug qui empêchait le site de s'ouvrir.
+
+Ajouts :
+- Supprimer un admin depuis Admins ou Gestion membres & admins.
+- Téléphone admin obligatoire.
+- Nom utilisateur admin obligatoire.
+- Mot de passe admin obligatoire.
+- Nom, post-nom, prénom admin obligatoires.
+- Blocage doublons admin/membre par nom + post-nom + prénom.
+- Blocage doublons admin/membre par numéro de téléphone.
+
+À envoyer sur GitHub :
+- admin.js
+- public.js
+
+Si le site ne s’ouvre pas :
+1. Remplace admin.js et public.js
+2. Attends 1 minute
+3. Fais Ctrl + F5

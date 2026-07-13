@@ -1,0 +1,17 @@
+DSK CONGO V22
+
+Modifications :
+- Suppression du bloc “Navigation rapide” sur l’accueil.
+- Les menus sont maintenant dans “Liens utiles” en bas du site.
+- Ajout menu téléphone avec bouton ☰ en haut.
+- Icônes réelles SVG : Facebook, TikTok, YouTube et X.
+- Ajout champ X/Twitter dans Admin > Site/contact.
+- Responsive téléphone amélioré.
+
+À envoyer sur GitHub :
+Remplace tous les fichiers du ZIP.
+
+Après upload :
+1. Attends 2 minutes.
+2. Ctrl + F5 sur le site.
+3. Ctrl + F5 sur admin.html.

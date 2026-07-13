@@ -1,0 +1,20 @@
+DSK CONGO V30 — FICHE D’ADHÉSION OFFICIELLE
+
+Intégré dans Admin > Membres > Fiche PDF :
+- photo du leader Simplice KUMBUNGE MAK’HANO automatique ;
+- signature officielle automatique ;
+- remplacement de “Secrétariat Général DSK” par “Simplice KUMBUNGE Président” ;
+- QR code de vérification ;
+- même structure que ton modèle PDF : Identification, Coordonnées géographiques, Qualité du membre, Enregistrement ;
+- photo du membre à droite.
+
+Images incluses :
+- assets/img/leader-simplice.png
+- assets/img/signature-simplice.png
+
+Après upload sur GitHub :
+1. Remplace tous les fichiers.
+2. Attends 2 minutes.
+3. Fais Ctrl + F5 sur admin.html.
+4. Va dans Admin > Membres.
+5. Clique sur “Fiche PDF”.

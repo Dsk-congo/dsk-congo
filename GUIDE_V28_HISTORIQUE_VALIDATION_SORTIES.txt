@@ -1,0 +1,39 @@
+DSK CONGO V28 — HISTORIQUE, FILTRES ET VALIDATION DES SORTIES
+
+Ajouts :
+1. Finances
+- Filtre historique par jour, mois ou année.
+- Suppression de l’historique désactivée.
+- Les sorties d’argent ne sont plus enregistrées directement.
+- Une sortie devient une demande à valider.
+- Après approbation, elle entre dans l’historique financier.
+
+2. Stock & matériels
+- Filtre historique par jour, mois ou année.
+- Suppression de l’historique désactivée.
+- Les sorties/affectations de matériel doivent être approuvées.
+- Entrées et retours peuvent être enregistrés directement.
+
+3. Validation sorties
+- Nouveau menu : Validation sorties.
+- Le super admin ou un admin avec droit approvals peut approuver/refuser.
+- Les décisions restent tracées avec date, nom de l’approbateur et statut.
+
+4. Rôle secrétaire
+- Un admin fonction Sec Gen a accès à finances, stock et validation sorties.
+- Le super admin peut aussi donner le droit Validation sorties à un admin.
+
+Pour les photos après hébergement :
+- Si l’hébergeur donne un File Manager : crée un dossier /uploads ou /images.
+- Envoie tes photos dans ce dossier.
+- Copie le lien public, exemple : https://tondomaine.com/uploads/photo.jpg
+- Colle ce lien dans Admin > Actualités, Programme, Galerie ou Photo membre.
+
+Pour GitHub Pages :
+- Ajoute les images dans le dépôt.
+- Clique l’image > Raw.
+- Copie le lien raw.githubusercontent.com.
+- Colle ce lien dans l’admin.
+
+À envoyer sur GitHub :
+Remplace tous les fichiers du ZIP, puis Ctrl + F5.

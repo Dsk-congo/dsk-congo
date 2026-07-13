@@ -1,0 +1,27 @@
+DSK CONGO V25 — GESTION PROFESSIONNELLE
+
+Nouveautés :
+1. Fiche d’adhésion imprimable/PDF par l’admin.
+   - Depuis Admin > Membres, bouton “Fiche PDF”.
+   - La fiche reprend les champs du modèle : identification, coordonnées géographiques, qualité du membre, enregistrement, signatures.
+
+2. Module Finances.
+   - Entrées et sorties d’argent.
+   - Montant, catégorie, date, motif, bénéficiaire/source, référence/preuve.
+   - Solde automatique.
+   - Diagramme entrées/sorties.
+   - Rapport financier PDF.
+
+3. Module Stock & matériels.
+   - Gestion des matériels : moto, vélo, chaises, sono, documents, équipements, etc.
+   - Entrée, sortie, retour, affectation.
+   - Motif obligatoire et responsable/bénéficiaire.
+   - Inventaire et rapport stock PDF.
+
+4. Rôle secrétaire.
+   - Les admins avec fonction “Sec Gen” ont accès à Finances et Stock.
+   - Le super admin peut aussi donner les droits Finance/Stock lors de la création d’admin.
+
+À envoyer sur GitHub :
+Remplace tous les fichiers du ZIP.
+Après upload : Ctrl + F5 sur admin.html et sur le site.

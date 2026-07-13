@@ -1,0 +1,23 @@
+DSK CONGO V29 — BOUTON PARCOURIR + LIEN URL
+
+Ajouts :
+- Partout où il faut insérer une image, tu as maintenant :
+  1) un champ URL pour coller un lien GitHub/Internet ;
+  2) un bouton Parcourir pour choisir une image depuis ton PC/téléphone.
+
+Zones concernées :
+- Adhésion : photo membre
+- Admin > Membres : bouton Photo
+- Admin > Site : logo, photo leader, arrière-plan, galerie accueil
+- Actualités / Programmes : images, vidéos, PDF quand le champ existe
+
+Important avec GitHub/Firebase :
+- Le bouton Parcourir convertit le fichier en Base64 et l’enregistre dans Firebase.
+- C’est bon pour petites images.
+- Pour grosses vidéos/PDF, il vaut mieux utiliser un lien GitHub, Google Drive ou hébergement.
+
+Quand tu auras un vrai hébergeur :
+- La meilleure version sera d’envoyer les fichiers dans un dossier /uploads.
+- Ensuite le système stockera seulement le lien : https://tonsite.com/uploads/photo.jpg
+
+Remplace tous les fichiers du ZIP sur GitHub puis fais Ctrl + F5.

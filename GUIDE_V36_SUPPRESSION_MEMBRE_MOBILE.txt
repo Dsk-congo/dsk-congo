@@ -1,0 +1,10 @@
+DSK CONGO V36
+
+- Le super admin peut supprimer définitivement un membre.
+- Bouton Supprimer ajouté dans Membres et Gestion membres & admins.
+- Confirmation avant suppression.
+- Sous la signature : Simplice KUMBUNGE Président en gras.
+- Interface responsive téléphone :
+  menu mobile, formulaires sur une colonne, tableaux défilables, dashboard et page QR adaptés.
+
+Remplace tous les fichiers sur GitHub puis fais Ctrl + F5.

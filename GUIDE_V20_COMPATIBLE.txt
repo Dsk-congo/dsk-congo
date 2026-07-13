@@ -1,0 +1,32 @@
+DSK CONGO V20 — CORRECTION COMPATIBLE
+
+Cette version corrige le cas où le site ne s'ouvre plus à cause d'un mélange de versions.
+
+Très important :
+Cette fois, remplace TOUS les fichiers suivants sur GitHub :
+- index.html
+- admin.html
+- style.css
+- public.js
+- admin.js
+- shared.js
+- firebase-config.js
+- .nojekyll
+
+Ne remplace pas seulement admin.js et public.js, sinon GitHub peut garder un ancien shared.js incompatible.
+
+Après upload :
+1. Attends 2 minutes.
+2. Ouvre le site.
+3. Fais Ctrl + F5.
+4. Ouvre admin.html.
+5. Fais Ctrl + F5.
+
+Fonctions incluses :
+- suppression des admins
+- téléphone admin obligatoire
+- nom utilisateur obligatoire
+- mot de passe obligatoire
+- nom, post-nom, prénom admin obligatoires
+- anti-doublon membre/admin par nom + post-nom + prénom
+- anti-doublon téléphone membre/admin

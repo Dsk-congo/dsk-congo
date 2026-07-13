@@ -1,0 +1,16 @@
+DSK CONGO V16 — CORRECTION LISTE ADMINS
+
+Problème corrigé :
+- Un admin pouvait se connecter mais ne s'affichait pas dans Gestion membres & admins.
+- Cause : certains admins n’avaient pas le champ createdAt.
+- Correction : la liste des admins lit maintenant tous les documents admins, même sans createdAt.
+- Les nouveaux admins recevront aussi createdAt et updatedAt automatiquement.
+
+À envoyer sur GitHub :
+- shared.js
+
+Recommandé : remplacer tous les fichiers du ZIP.
+Après upload :
+1. Ctrl + F5 sur admin.html
+2. Va dans Gestion membres & admins
+3. L’admin doit apparaître.
